@@ -1,35 +1,54 @@
-# Cybersecurity Journey - TryHackMe 🛡️
+# 🔓 TryHackMe Journey - Kaue Oliveira (Kaue7)
 
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Profile-blue)](https://tryhackme.com/p/Kaue7)  
-*Ativo desde Dezembro 2023*
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Kaue7)
+[![7-Day Streak](https://img.shields.io/badge/Streak-7_Days-FFD43B?style=for-the-badge)](https://tryhackme.com/p/Kaue7)
 
-## Minhas Conquistas na TryHackMe
-
-### Progresso Geral
-| Fundamentos | Ofensivo | Defensivo | Certificações | Conclusão Total |
-|------------|----------|-----------|---------------|-----------------|
-| 100%       | 85%      | 75%       | 35%           | **72%**         |
-
-### Caminhos Completados
-- **Cyber Defense** - Julho 2024
-- **Attacking and Defending Active Directory** - Dezembro 2024
-- **SOC Level 1** - Junho 2024
-- **SOC Level 2** - Julho 2024
-
-### Salas Notáveis
-| Sala | Categoria | Concluída | Dificuldade |
-|------|-----------|-----------|-------------|
-| [Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023) | Desafio Anual | Dez 2023 | 🟢 Fácil |
-| [Wreath](https://tryhackme.com/room/wreath) | Rede Privada | Jan 2024 | 🔴 Difícil |
-| [Anthem](https://tryhackme.com/room/anthem) | Exploração | Mar 2024 | 🟡 Médio |
-
-### Estatísticas
-- **Total de salas completadas:** 48
-- **Dias consecutivos:** 56
-- **Ranking:** Top 5%
-
-## Certificações Relacionadas
-- eJPT - Julho 2024
-- CompTIA Security+ - Em progresso (35%)
+> *"Hacking é uma arte de persistência."*  
+> Ativo desde **Dezembro 2023** | 🏆 Top 5%
 
 ---
+
+## 🗺️ Caminhos em Progresso
+
+| Caminho                  | Progresso | Dificuldade  |
+|--------------------------|-----------|-------------|
+| **Jr Penetration Tester** | 78%       | 🟡 Intermediário |
+| **Web Fundamentals**      | 73%       | 🟢 Fácil      |
+| **Red Teaming**           | 3%        | 🔴 Difícil    |
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+### 🔍 **Penetration Tester**
+- **Vulnerability Analysis** → [Salas Completas](#)
+- **Privilege Escalation** → [Salas Completas](#)
+- **Exploitation** → [Salas Completas](#)
+
+### 👨‍💻 **Security Analyst**
+- **Threat Hunting** → [Salas Completas](#)
+- **Incident Response** → [Salas Completas](#)
+
+### 🏗️ **Security Engineer**
+- **Security Automation** → [Salas Completas](#)
+- **Threat Management** → [Salas Completas](#)
+
+---
+
+## 🏅 Conquistas Recentes
+
+| Conquista               | Módulo Relacionado           | Data       |
+|-------------------------|-----------------------------|------------|
+| **First Four**          | 4 salas na primeira semana  | Dez 2023   |
+| **Webbed**              | How The Web Works           | Jan 2024   |
+| **Burp'ed**             | Burp Suite Module           | Mar 2024   |
+| **7 Day Break**         | 7 dias consecutivos         | Abr 2024   |
+
+---
+
+## 📅 Atividade Anual 2024
+
+```text
+Jan [▓▓▓▓▓▓▓] 15 eventos   | Jul [▓▓▓▓▓░░] 8 eventos
+Fev [▓▓▓▓░░░] 6 eventos    | Ago [▓▓▓▓▓▓▓] 18 eventos
+Mar [▓▓▓▓▓▓░] 11 eventos   | Set [▓▓▓▓▓▓░] 12 eventos
