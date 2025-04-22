@@ -30,5 +30,5 @@ Each module includes:
 
 🚀 I'm building my knowledge to become a professional penetration tester, and this repository reflects my commitment and growth.
 
-🔗 [View this journey on TryHackMe](https://tryhackme.com)
+🔗 [View this journey on TryHackMe](https://tryhackme.com/p/Kaue7)
 
