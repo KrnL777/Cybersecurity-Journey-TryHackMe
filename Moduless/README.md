@@ -19,7 +19,9 @@ This folder contains my complete journey through the **Modules** from the TryHac
 - [✅] Linux Fundamentals  
 - [✅] How the Web Works  
 - [✅] Introduction to Web Hacking  
-- [✅] Burp Suite  
+- [✅] Burp Suite
+- [✅] Metasploit
+  
 
 ---
 
