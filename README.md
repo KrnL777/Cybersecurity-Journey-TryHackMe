@@ -2,7 +2,7 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Kaue7)
 
-> *"Hacking é uma arte de persistência."*  
+> *"Hackear não é só técnica, é insistência."*  
 > Ativo desde **Dezembro 2025** | 🏆 
 
 ---
