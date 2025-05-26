@@ -22,6 +22,7 @@ This folder contains my complete journey through the **Modules** from the TryHac
 - [✅] Burp Suite
 - [✅] Metasploit
 - [✅] Networking
+- [✅] Network Exploitation Basics
   
 
 ---
